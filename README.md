@@ -26,10 +26,7 @@ The dashboard provides an interactive view of sales performance across stores, p
 ---
 
 # 📊 Dashboard Preview
-
-> Replace the image below with your dashboard screenshot.
-
-![Dashboard](Images/dashboard.png)
+![Dashboard](Coffee_shop_sales_SS.png)
 
 ---
 
@@ -122,54 +119,6 @@ The dashboard uncovered several valuable business insights:
 - Thursday and Friday recorded the highest customer footfall.
 - Barista Espresso was the highest-selling product.
 - Large and Regular beverage sizes accounted for most customer orders.
-
----
-
-# 📁 Dashboard Components
-
-The dashboard includes:
-
-- KPI Cards
-- Sales Trend Analysis
-- Hourly Sales Analysis
-- Store Performance Comparison
-- Product Performance Dashboard
-- Category Distribution
-- Beverage Size Analysis
-- Weekday Analysis
-- Interactive Slicers
-
----
-
-# 💼 Business Value
-
-The dashboard enables business stakeholders to:
-
-- Monitor sales performance in real time
-- Identify revenue-driving products
-- Analyze customer purchasing behavior
-- Optimize staffing during peak hours
-- Support inventory planning
-- Improve operational decision-making using data
-
----
-
-# 🚀 Skills Demonstrated
-
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Dashboard Development
-- Business Intelligence
-- KPI Reporting
-- Data Visualization
-- Sales Analytics
-- Customer Analytics
-- Trend Analysis
-- Pivot Tables
-- Pivot Charts
-- Interactive Reporting
 
 ---
 
